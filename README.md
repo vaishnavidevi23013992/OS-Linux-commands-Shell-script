@@ -1084,8 +1084,5 @@ else
 	echo "Number is NOT palindrome"
 fi
 ```
-## OUTPUT 
-
-
 # RESULT:
 The Commands are executed successfully.
